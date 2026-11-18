@@ -25,3 +25,12 @@ Repository Contents
 Quant Project Report.docx
 Chess_Quant_Analytics.ipynb
 QuantProjectData.xlsx# quantitative-chess-analysis
+
+Tools Used
+
+Python
+pandas
+Excel
+Google Colab
+Chess.com
+Lichess
