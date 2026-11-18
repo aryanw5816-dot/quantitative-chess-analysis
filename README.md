@@ -24,7 +24,7 @@ Higher-volatility positions were associated with increased blunder frequency (co
 Repository Contents
 Quant Project Report.docx
 Chess_Quant_Analytics.ipynb
-QuantProjectData.xlsx# quantitative-chess-analysis
+QuantProjectData.xlsx
 
 Tools Used
 
